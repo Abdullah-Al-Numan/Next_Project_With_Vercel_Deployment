@@ -16,6 +16,7 @@ export default function Home() {
       </Head>
       <main className={styles.main}>
         <h1 className='text-3xl font-bold'>Hello Tailwin CSS</h1>
+        <h1 className='text-3xl font-bold'>Demo Branch code</h1>
       </main>
     </>
   )
